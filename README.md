@@ -2,14 +2,14 @@
 
 ---
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/copocaneta">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=copocaneta&count_private=true&show_icons=true&theme=vision-friendly-dark" />
   </a>
   <a href="https://github.com/copocaneta">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=copocaneta&layout=compact&langs_count=8&theme=vision-friendly-dark" />
   </a>
-</p>
+</div>
 
 <!--
 **copocaneta/copocaneta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
