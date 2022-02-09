@@ -5,8 +5,6 @@
 <div align="center">
   <a href="https://github.com/copocaneta">
     <img align="center" width="456" src="https://github-readme-stats.vercel.app/api?username=copocaneta&count_private=true&show_icons=true&theme=vision-friendly-dark" />
-  </a>
-  <a href="https://github.com/copocaneta">
     <img align="center" width="331" src="https://github-readme-stats.vercel.app/api/top-langs/?username=copocaneta&layout=compact&langs_count=8&theme=vision-friendly-dark" />
   </a>
 </div>
