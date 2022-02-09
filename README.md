@@ -6,9 +6,10 @@
   <a href="https://github.com/copocaneta">
     <img align="center" width="456" src="https://github-readme-stats.vercel.app/api?username=copocaneta&count_private=true&show_icons=true&theme=vision-friendly-dark" />
     <img align="center" width="331" src="https://github-readme-stats.vercel.app/api/top-langs/?username=copocaneta&layout=compact&langs_count=8&theme=vision-friendly-dark" />
-    [![trophy](https://github-profile-trophy.vercel.app/?username=copocaneta)](https://github.com/ryo-ma/github-profile-trophy)
   </a>
 </div>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=copocaneta&theme=onedark&title=Commits,Followers,Repositories,Issues)](https://github.com/copocaneta)
 
 
   
