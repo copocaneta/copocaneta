@@ -9,7 +9,9 @@
   </a>
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=copocaneta&theme=onedark&title=Commits,Followers,Repositories,Issues)](https://github.com/copocaneta)
+<p align="center">
+  [![trophy](https://github-profile-trophy.vercel.app/?username=copocaneta&theme=onedark&title=Commits,Repositories,Issues)](https://github.com/copocaneta)
+</p>
 
 
   
