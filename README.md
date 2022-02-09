@@ -10,7 +10,9 @@
 </div>
 
 <p align="center">
-  [![trophy](https://github-profile-trophy.vercel.app/?username=copocaneta&theme=onedark&title=Commits,Repositories,Issues)](https://github.com/copocaneta)
+  <a href="https://github.com/copocaneta">
+    <img src="https://github-profile-trophy.vercel.app/?username=copocaneta&theme=onedark&title=Commits,Repositories,Issues" />
+  </a>
 </p>
 
 
