@@ -9,7 +9,7 @@
   </a>
 </div>
 
-<div align="center">
+<p align="center">
   [![trophy](https://github-profile-trophy.vercel.app/?username=copocaneta)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
