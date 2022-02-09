@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=copocaneta)](https://github.com/copocaneta)
+
 <!--
 **copocaneta/copocaneta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
