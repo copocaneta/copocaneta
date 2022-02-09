@@ -7,7 +7,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=copocaneta&count_private=true&show_icons=true&theme=cobalt" />
   </a>
   <a href="https://github.com/copocaneta">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=copocaneta&layout=compact" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=copocaneta&layout=compact&langs_count=8" />
   </a>
 </p>
 
