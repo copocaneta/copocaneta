@@ -36,7 +36,7 @@
 <a href="mailto: copocaneta@gmail.com">
  <img src="https://img.shields.io/badge/-copocaneta-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:copocaneta@gmail.com"/>
 </a>
-<a href="https://www.linkedin.com/in/thiago-bernardi/">
+<a href="https://www.linkedin.com/in/thiago-bernardi/" target="_blank">
  <img src="https://img.shields.io/badge/-thiago&#8211bernardi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-bernardi/"/>
 </a>
 </p>
