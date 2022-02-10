@@ -1,8 +1,45 @@
-  </p align="center">
-<img src="" />
+<p align="center">
+    <img align="center" src="./images/github_banner.png" />
+</p>
 
 <p align="center">
 
+ <img align="center" src="https://badges.pufler.dev/visits/copocaneta/copocaneta"/>
+ <!-- <img src="https://badges.pufler.dev/years/ritik307"/> -->
+ <img align="center" src="https://badges.pufler.dev/repos/copocaneta"/>
+ <img align="center" src="https://badges.pufler.dev/commits/monthly/copocaneta" />
+
+</p>
+
+<h2 align="center">Technology Stack <img src="https://github.com/copocaneta/copocaneta/blob/main/images/laptop.gif" width="50"></h2>
+
+<p align="center">
+ <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
+<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
+<img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
+<img src="https://img.shields.io/badge/-Solidity-black?style=flat-square&logo=solidity"/>
+<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
+<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
+<img src="https://img.shields.io/badge/-Gatsby-black?style=flat-square&logo=gatsby"/>
+<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
+<img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
+<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
+<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+</p>
+
+<h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
+
+<p align="center">
+<a href="mailto: copocaneta@gmail.com">
+ <img src="https://img.shields.io/badge/-copocaneta-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:copocaneta@gmail.com"/>
+</a>
+<a href="https://www.linkedin.com/in/thiago-bernardi/">
+ <img src="https://img.shields.io/badge/-thiago&#8211bernardi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiago-bernardi/"/>
+</a>
+</p>
 ---
 
 <div align="center">
